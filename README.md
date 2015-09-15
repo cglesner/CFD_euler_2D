@@ -1,10 +1,10 @@
 # CFD_euler_2D
 This code is a from scratch implementation of a computational fluid dynamics simulator.
 Code Usage:
--At present this code is hard-coded to use input grids and to generate output data
+*At present this code is hard-coded to use input grids and to generate output data
  formatted for use with the Tecplot visualization package. The next project for this code
  is to convert to VisIt or some other open-source visualization package. 
--The executable can be built using make commands. Make Run_Simulation builds the executable.
+  -The executable can be built using make commands. Make Run_Simulation builds the executable.
 -At present the code is hard-coded to read input from a file named sim_config.txt, an 
  immediate priority is to change the code so that a command line argument can be passed to 
  the executable to specify the appropriate input file.
