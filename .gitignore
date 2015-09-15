@@ -1,0 +1,6 @@
+# Git Ignore file for this repo. prevents us having to deal
+# with object files or output files or the '.DS_Store' 
+# created by macs.
+*.DS_Store
+*.o
+*.dat

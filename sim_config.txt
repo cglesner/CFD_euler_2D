@@ -1,0 +1,25 @@
+sim_name:        NACA385x105_vl_1st_order_AOA0_SUPERSONIC
+mesh_file_path:  NACA64A006.fine.385x105.grd
+sim_case:        a
+flux_method:     v
+sub_super(MMS):  0
+angle_of_attack: 0.0
+mach:            2.0
+temperature:     300.0
+pressure:        12827.0
+CFL:             0.5
+m-stage:         4
+order:           1
+kappa:           -1.0
+first_till:      100
+freeze_at:       10000
+converge_till:   1.0e-6
+blow_up:         10
+max_iter:        30000
+file_out:        50
+terminal_out:    50
+
+
+
+
+
