@@ -88,3 +88,8 @@ void super_inflow_bc(array<double,4>& V_GC1,         \
 		V_GC2[n] = V_IF[n];
 	}
 }
+
+void new_bc()
+{
+	// new BC
+}
