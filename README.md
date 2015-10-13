@@ -1,4 +1,5 @@
 # CFD_euler_2D
+Created by Colin Glesner
 This code is a from scratch implementation of a computational fluid dynamics simulator.
 
 Code Usage:
